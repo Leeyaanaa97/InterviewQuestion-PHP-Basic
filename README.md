@@ -43,6 +43,8 @@ b. When user key in username and click “Submit”
 2. Apply comment
 3. Beutify the interface
 
+### Screenshot
+
 ## Question B
 
 - create **query.txt** to provide answer for 4 SQL below.
