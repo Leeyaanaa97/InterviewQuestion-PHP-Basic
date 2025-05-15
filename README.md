@@ -43,15 +43,15 @@ b. When user key in username and click “Submit”
 2. Apply comment
 3. Beutify the interface
 
-### Screenshot
-[Key in Username]
+### Screenshots:
 ![Pic_1_Username](https://github.com/user-attachments/assets/f38a7fcc-0ef4-4f73-a49e-409dad829f3d)
+[Key in Username]
 
-[Verified]
 ![Pic_2_Verified](https://github.com/user-attachments/assets/fdda2897-d07b-45f1-827f-c5019b0ad006)
+[Verified]
 
-[Error]
 ![Pic_3_Error](https://github.com/user-attachments/assets/ce7fc9bc-73f5-40f3-8bdb-f8003ff70051)
+[Error]
 
 ## Question B
 
