@@ -44,6 +44,14 @@ b. When user key in username and click “Submit”
 3. Beutify the interface
 
 ### Screenshot
+[Key in Username]
+![Pic_1_Username](https://github.com/user-attachments/assets/f38a7fcc-0ef4-4f73-a49e-409dad829f3d)
+
+[Verified]
+![Pic_2_Verified](https://github.com/user-attachments/assets/fdda2897-d07b-45f1-827f-c5019b0ad006)
+
+[Error]
+![Pic_3_Error](https://github.com/user-attachments/assets/ce7fc9bc-73f5-40f3-8bdb-f8003ff70051)
 
 ## Question B
 
