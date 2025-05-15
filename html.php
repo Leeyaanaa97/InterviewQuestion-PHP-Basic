@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Username Verification</title>
+    <title>Username</title>
     <style>
         body {
             font-family: Arial, sans-serif;
