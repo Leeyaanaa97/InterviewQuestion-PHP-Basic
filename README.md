@@ -44,11 +44,11 @@ b. When user key in username and click “Submit”
 3. Beutify the interface
 
 ### Screenshots:
-![Pic_1_Username](https://github.com/user-attachments/assets/f38a7fcc-0ef4-4f73-a49e-409dad829f3d)
+![image](https://github.com/user-attachments/assets/5285366e-bb74-4468-a7a1-2306fc584b00)
 
-![Pic_2_Verified](https://github.com/user-attachments/assets/fdda2897-d07b-45f1-827f-c5019b0ad006)
+![image](https://github.com/user-attachments/assets/c6ea9a0f-c009-4f1e-9a0e-6753cce3d94e)
 
-![Pic_3_Error](https://github.com/user-attachments/assets/ce7fc9bc-73f5-40f3-8bdb-f8003ff70051)
+![image](https://github.com/user-attachments/assets/30be7d9d-92b2-4fd6-be22-365c8fee35b2)
 
 ## Question B
 
