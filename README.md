@@ -43,6 +43,13 @@ b. When user key in username and click “Submit”
 2. Apply comment
 3. Beutify the interface
 
+### Screenshots:
+![Pic_1_Username](https://github.com/user-attachments/assets/f38a7fcc-0ef4-4f73-a49e-409dad829f3d)
+
+![Pic_2_Verified](https://github.com/user-attachments/assets/fdda2897-d07b-45f1-827f-c5019b0ad006)
+
+![Pic_3_Error](https://github.com/user-attachments/assets/ce7fc9bc-73f5-40f3-8bdb-f8003ff70051)
+
 ## Question B
 
 - create **query.txt** to provide answer for 4 SQL below.
